@@ -1,5 +1,10 @@
+branch_2
+branch_2
+temp : added new line from branch_2
+
 branch_1
 temp : new branch_1
+main
 
 temp : 
 main
